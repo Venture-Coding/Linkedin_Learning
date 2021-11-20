@@ -22,6 +22,6 @@ Some quick basics :
 <img width="725" alt="Screenshot 2021-11-20 at 5 21 55 PM" src="https://user-images.githubusercontent.com/61674750/142725319-ec0c6662-0c58-49ec-a977-f5ac082f976e.png">
 
 Popular Techniques :  
-    Parsing.   
-    Stemming.  
-    Text Segmentation.  
+  - Parsing.   
+  - Stemming.  
+  - Text Segmentation.  
