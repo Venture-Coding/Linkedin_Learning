@@ -15,3 +15,12 @@
 TPU Compatibility to check speed-ups possible:  
 
 <img width="728" alt="Screenshot 2021-11-20 at 4 40 23 PM" src="https://user-images.githubusercontent.com/61674750/142724172-ab728be2-c7d2-4d0a-b767-7f45a6496a31.png">
+  
+Example use-cases :  
+  
+1. Image Search with Cloud ML - Architecture   
+<img width="733" alt="Screenshot 2021-11-20 at 4 45 12 PM" src="https://user-images.githubusercontent.com/61674750/142724319-29a534bd-fdd4-4d6d-8f15-22b84430503c.png">  
+  
+2. Serverless ML Architecture   
+  
+<img width="734" alt="Screenshot 2021-11-20 at 4 47 18 PM" src="https://user-images.githubusercontent.com/61674750/142724347-dabec1e8-5c76-457d-b53d-6272462386f3.png">
