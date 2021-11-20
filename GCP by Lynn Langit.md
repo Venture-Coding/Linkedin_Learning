@@ -23,4 +23,17 @@ Example use-cases :
   
 2. Serverless ML Architecture   
   
-<img width="734" alt="Screenshot 2021-11-20 at 4 47 18 PM" src="https://user-images.githubusercontent.com/61674750/142724347-dabec1e8-5c76-457d-b53d-6272462386f3.png">
+<img width="734" alt="Screenshot 2021-11-20 at 4 47 18 PM" src="https://user-images.githubusercontent.com/61674750/142724347-dabec1e8-5c76-457d-b53d-6272462386f3.png">  
+ 
+3. GCP with Structured Data  
+ <img width="696" alt="Screenshot 2021-11-20 at 4 50 20 PM" src="https://user-images.githubusercontent.com/61674750/142724432-ff390e38-e178-433e-bb58-40f4f31b5c6e.png">
+  
+  
+4. IoT Apps using GCP  
+<img width="725" alt="Screenshot 2021-11-20 at 4 52 28 PM" src="https://user-images.githubusercontent.com/61674750/142724479-6439d4bd-f92e-45fa-ad27-ba56dcb7c024.png">
+
+  
+  
+
+
+
