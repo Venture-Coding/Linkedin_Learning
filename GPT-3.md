@@ -27,5 +27,5 @@ GPT-3's immense succes in NLP & NLG is scary.
 - Trained on Wikipedia and Common Crawl (HUGE Dataset).  
 - Filling missing words, ideas and reasons.  
 - 175 bn parameters o_o   
-- Great performance on zero-shot and one-shot learning.   
+- Great performance on zero-shot, one-shot and few-shot learning.     
 
