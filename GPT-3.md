@@ -26,5 +26,6 @@ GPT-3's immense succes in NLP & NLG is scary.
 - Simplifying jargons, breaking down text into simpler forms (the ability to differentiate between complex and simple sentences for humans.).  
 - Trained on Wikipedia and Common Crawl (HUGE Dataset).  
 - Filling missing words, ideas and reasons.  
-- 175 bn parameters o_o 
+- 175 bn parameters o_o   
+- Great performance on zero-shot and one-shot learning.   
 
