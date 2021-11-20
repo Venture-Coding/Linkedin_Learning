@@ -6,3 +6,7 @@
  ### Tensorflow ###    
  TensorBoard
 <img width="1068" alt="Screenshot 2021-11-20 at 3 04 53 PM" src="https://user-images.githubusercontent.com/61674750/142721537-510c80a5-d12c-4d87-98f4-0ddcb819003e.png">
+  
+  Graph  
+  
+<img width="590" alt="Screenshot 2021-11-20 at 3 06 37 PM" src="https://user-images.githubusercontent.com/61674750/142721571-5c43b9a8-7009-4968-8081-4e8a77a80deb.png">
