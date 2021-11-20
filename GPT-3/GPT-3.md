@@ -1,4 +1,4 @@
-## GPT-3 ##
+## Intro to GPT-3 ##
 
 Generative Pre-Trained Transfromers
 
