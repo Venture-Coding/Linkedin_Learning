@@ -22,5 +22,9 @@ Open AI charter for Machine Ethics :
   
   
 GPT-3's immense succes in NLP & NLG is scary.
-
+- Completing poetry, emails, conversations, titles, tracks, stories.  
+- Simplifying jargons, breaking down text into simpler forms (the ability to differentiate between complex and simple sentences for humans.).  
+- Trained on Wikipedia and Common Crawl (HUGE Dataset).  
+- Filling missing words, ideas and reasons.  
+- 175 bn parameters o_o 
 
