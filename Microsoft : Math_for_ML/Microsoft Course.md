@@ -6,4 +6,6 @@ All of them had a lot of mathematical concepts being thrown around now and then.
 
   
 Notes to self:  
-Revise Module 3 EVal, EVecs, Rank-deficiency, Decomposition every 6 mon ;}
+Revise Module 3 EVal, EVecs, Rank-deficiency, Decomposition every 6 mon ;}  
+Use ci = stats.norm.interval(0.95, m, sd) for Conf Int.  
+Z-score uses Pop Std (1.96 for 95%, 2.575 for 99%), t- will use Sample std.  
