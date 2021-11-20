@@ -31,6 +31,6 @@ Projecting Vectors and MetaData in Tensorflow to understand the Vector Map of ou
 
 <img width="1096" alt="Screenshot 2021-11-21 at 12 37 58 AM" src="https://user-images.githubusercontent.com/61674750/142738262-e63c82ab-bd40-4bb7-9233-ed4d0475b0b5.png">  
 
-.
+[TensorFlow projector](https://projector.tensorflow.org/).
 
 
