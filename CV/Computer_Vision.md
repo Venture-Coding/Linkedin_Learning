@@ -11,4 +11,9 @@ No framework restrictions and not much external dependencies.
 
 Intel has also released the OpenVINO toolkit (Open Visual Inference and Neural network Optimization).   
 (OpenVINO toolkit is a free toolkit facilitating the optimization of a deep learning model from a framework and deployment using an inference engine onto Intel hardware).  
+  
+Working with Blobs :  
+<img width="717" alt="Screenshot 2021-11-23 at 2 03 55 PM" src="https://user-images.githubusercontent.com/61674750/142992119-6c7e0a9b-6f39-4189-9ae8-108deb3cb459.png">  
 
+Working with Caffe :  
+<img width="730" alt="Screenshot 2021-11-23 at 2 11 04 PM" src="https://user-images.githubusercontent.com/61674750/142992905-e977485b-b60a-4a5d-890c-52cce8ed6f72.png">
